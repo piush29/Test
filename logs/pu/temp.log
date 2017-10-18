@@ -1,0 +1,832 @@
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/9/14 Time: 12:16
+
+Running process add Perforce user option.
+User aqib created.
+User aqib added to UseTriggers group.
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/5 Time: 11:16
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/5 Time: 11:17
+
+Running process user delete option.
+Processing deletes for user VPOLISET VINEELA
+Processing deletes for user VPOLISET
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/5 Time: 11:27
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/5 Time: 11:28
+
+Running process user delete option.
+Processing deletes for user VPOLISET
+Processing deletes for user vpoliset
+Workspace Dev_Vinay_Workspace deleted.
+Workspace Dev_Vpoliset_Workspace deleted.
+Workspace Vinay_Dev_Workspace deleted.
+User vpoliset removed from Group UseTriggers
+User vpoliset removed from Group css_serv_accel_dev_write
+vpoliset deleted from Perforce
+User vpoliset removed from UseTriggers group.
+Processing deletes for user vineela
+Workspace vineela_GOVINDJ-PC_4633 deleted.
+User vineela removed from Group UseTriggers
+User vineela removed from Group ev_finance
+vineela deleted from Perforce
+User vineela removed from UseTriggers group.
+Processing deletes for user vermas
+Workspace lp-santoshverma deleted.
+Workspace test_p4_prd deleted.
+Workspace test_p4_prd2 deleted.
+Workspace vermas_lp-santoshverma deleted.
+User vermas removed from Group UseTriggers
+vermas deleted from Perforce
+User vermas removed from UseTriggers group.
+Processing deletes for user venug
+Workspace venug_LP-Venugopal_2322 deleted.
+User venug removed from Group UseTriggers
+User venug removed from Group intgops
+venug deleted from Perforce
+User venug removed from UseTriggers group.
+Processing deletes for user vdantulu
+Workspace datalake_latest_code deleted.
+Workspace datalakeportal deleted.
+Workspace vdantulu_datafabric deleted.
+Workspace vdantulu_datalake_portal deleted.
+Workspace vdantulu_netappiq deleted.
+User vdantulu removed from Group UseTriggers
+User vdantulu removed from Group datalake_an_fab_dev_read
+User vdantulu removed from Group datalake_an_fab_dev_write
+User vdantulu removed from Group datalake_an_fab_main_read
+User vdantulu removed from Group datalake_an_fab_main_write
+User vdantulu removed from Group datalake_an_fab_ppa
+User vdantulu removed from Group datalake_an_fab_prod_read
+User vdantulu removed from Group datalake_an_fab_prod_write
+User vdantulu removed from Group datalake_an_fab_read
+vdantulu deleted from Perforce
+User vdantulu removed from UseTriggers group.
+Processing deletes for user smallika
+Workspace smallika_A185LBLR_6620 deleted.
+Workspace smallika_A185LBLR_8624 deleted.
+User smallika removed from Group UseTriggers
+User smallika removed from Group eba_EDWPDIT2PROD_dev_write
+smallika deleted from Perforce
+User smallika removed from UseTriggers group.
+Processing deletes for user shivram
+Workspace Code_Root deleted.
+Workspace Demo deleted.
+Workspace FY15_Release deleted.
+User shivram removed from Group TrueComp
+shivram deleted from Perforce
+User shivram removed from UseTriggers group.
+Processing deletes for user shikhap
+Workspace shikhap_Lp-ShikhaT_4672 deleted.
+User shikhap removed from Group UseTriggers
+User shikhap removed from Group ev_dev_shasta_write
+User shikhap removed from Group ev_main_write
+shikhap deleted from Perforce
+User shikhap removed from UseTriggers group.
+Processing deletes for user seemaj
+Workspace channels-dev-local deleted.
+Workspace channels-stg-local deleted.
+Workspace pds-gold-perforce deleted.
+Workspace seema-fast-dmz deleted.
+Workspace seemaj_LP-RakhiTayal deleted.
+User seemaj removed from Group SFDC
+User seemaj removed from Group channels_write
+seemaj deleted from Perforce
+User seemaj removed from UseTriggers group.
+Processing deletes for user saiprave
+Workspace saiprave_A675LCOK_8192 deleted.
+User saiprave removed from Group SFDC
+User saiprave removed from Group SFDC_REL_MGT
+User saiprave removed from Group UseTriggers
+saiprave deleted from Perforce
+User saiprave removed from UseTriggers group.
+Processing deletes for user aakriti
+Workspace EDR_Workspace deleted.
+Workspace EDRacms_Workspace deleted.
+Workspace aakriti deleted.
+Workspace aakriti1 deleted.
+User aakriti removed from Group cms_gtm_write
+User aakriti removed from Group ecms
+User aakriti removed from Group edr_sp_write
+User aakriti removed from Group edr_write
+aakriti deleted from Perforce
+User aakriti removed from UseTriggers group.
+Processing deletes for user adidam
+Workspace adidam_rig-lp-05_1748 deleted.
+Workspace mywork deleted.
+User adidam removed from Group RevPro_Prod_Read
+User adidam removed from Group RevPro_Prod_Write
+User adidam removed from Group UseTriggers
+User adidam removed from Group ev_dev_shasta_write
+User adidam removed from Group ev_main_write
+adidam deleted from Perforce
+User adidam removed from UseTriggers group.
+Processing deletes for user akanshas
+User akanshas removed from Group UseTriggers
+User akanshas removed from Group enteprisemobile
+akanshas deleted from Perforce
+User akanshas removed from UseTriggers group.
+Processing deletes for user anishr
+Workspace DirectoryPerforce deleted.
+Workspace Netapp deleted.
+Workspace PerforceWS deleted.
+Workspace ProjectWorkSpace deleted.
+Workspace SyncTest deleted.
+Workspace anishr_C842LTRV_6235 deleted.
+User anishr removed from Group UseTriggers
+User anishr removed from Group enteprisemobile
+anishr deleted from Perforce
+User anishr removed from UseTriggers group.
+Processing deletes for user anjalik
+Workspace Anjali_KM deleted.
+User anjalik removed from Group UseTriggers
+User anjalik removed from Group ev_finance
+anjalik deleted from Perforce
+User anjalik removed from UseTriggers group.
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/6 Time: 19:54
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/6 Time: 19:55
+
+Running process user delete option.
+Processing deletes for user rathnam
+Workspace rathnam:BTC:ariesc1 deleted.
+Workspace rathnam:BTC:c1 deleted.
+Workspace rathnam:BTC:c2 deleted.
+Workspace rathnam:BTC:c3 deleted.
+Workspace rathnam:BTC:c4 deleted.
+Workspace rathnam:BTC:devBranchGold deleted.
+Workspace rathnam:BTC:drop3 deleted.
+Workspace rathnam:corp:o365dp1 deleted.
+Workspace rathnam:corp:o365dp3 deleted.
+Workspace rathnam:ol:aries1 deleted.
+Workspace rathnam:ol:platform1 deleted.
+User rathnam removed from Group UseTriggers
+User rathnam removed from Group o365dp_role_eng
+rathnam deleted from Perforce
+User rathnam removed from UseTriggers group.
+Processing deletes for user raunak
+Workspace P4vnetapp deleted.
+Workspace Perforce4netapp deleted.
+Workspace raunak_citrix_oaf deleted.
+User raunak removed from Group UseTriggers
+User raunak removed from Group ev_crm
+User raunak removed from Group ev_dev_shasta_write
+raunak deleted from Perforce
+User raunak removed from UseTriggers group.
+Processing deletes for user rbukka
+Workspace rbukka_BukkaRavi_873 deleted.
+User rbukka removed from Group UseTriggers
+User rbukka removed from Group intgdev
+rbukka deleted from Perforce
+User rbukka removed from UseTriggers group.
+Processing deletes for user sahiti
+User sahiti removed from Group SFDC
+User sahiti removed from Group SFDC_REL_MGT
+sahiti deleted from Perforce
+User sahiti removed from UseTriggers group.
+Processing deletes for user rrajasek
+Workspace rrajasek_netappIQ_maas deleted.
+User rrajasek removed from Group UseTriggers
+User rrajasek removed from Group datalake_an_fab_dev_write
+User rrajasek removed from Group datalake_an_fab_main_write
+User rrajasek removed from Group datalake_an_fab_prod_write
+User rrajasek removed from Group datalake_an_fab_read
+rrajasek deleted from Perforce
+User rrajasek removed from UseTriggers group.
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/9 Time: 18:45
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/10/9 Time: 18:45
+
+Running process user delete option.
+Processing deletes for user narayano
+Workspace DMS-TEST-Perforce deleted.
+Workspace DMSDevPerforce deleted.
+Workspace DMSPerforce deleted.
+Workspace DMS_PROD_Perforce deleted.
+Workspace SampleWorkspace deleted.
+User narayano removed from Group NetAppU_dms_write
+User narayano removed from Group UseTriggers
+User narayano removed from Group channels_write
+User narayano removed from Group smart_read
+narayano deleted from Perforce
+User narayano removed from UseTriggers group.
+Processing deletes for user ngudimet
+Workspace ngudimet:datalake deleted.
+User ngudimet removed from Group UseTriggers
+User ngudimet branch DevToMain deleted.
+User ngudimet branch MainToProd deleted.
+ngudimet deleted from Perforce
+User ngudimet removed from UseTriggers group.
+Processing deletes for user nivedit2
+Workspace MayPerforce deleted.
+Workspace MyPerforce deleted.
+Workspace NGR deleted.
+Workspace New_Perforce deleted.
+Workspace PerforceDec deleted.
+Workspace PerforceMay deleted.
+Workspace Perforce_dec deleted.
+Workspace myPerforce deleted.
+Workspace nivedit2_LP-NiveditaSH_3494 deleted.
+Workspace nivedit2_LP-NiveditaSH_3864 deleted.
+User nivedit2 removed from Group UseTriggers
+User nivedit2 removed from Group ev_dev_shasta_write
+User nivedit2 removed from Group ev_dev_whitney_write
+User nivedit2 removed from Group ev_main_read
+User nivedit2 removed from Group ev_main_write
+User nivedit2 removed from Group ev_netapp_readonly
+User nivedit2 removed from Group ev_release_eprodfix_write
+nivedit2 deleted from Perforce
+User nivedit2 removed from UseTriggers group.
+Processing deletes for user pdulam
+Workspace advanced_settings deleted.
+Workspace pdulam:Raries deleted.
+Workspace pdulam_PDULAM01-PC_1382 deleted.
+Workspace pdulam_PDULAM01-PC_609 deleted.
+Workspace pdulam_PDULAM01-PC_9597 deleted.
+Workspace pdulam_Raries_Test deleted.
+Workspace pdulam_test_on_openlab_staging deleted.
+Workspace pdulam_working_betadrop-1 deleted.
+Workspace pdulam_working_betadrop1 deleted.
+Workspace pdulam_working_staging deleted.
+User pdulam removed from Group UseTriggers
+pdulam deleted from Perforce
+User pdulam removed from UseTriggers group.
+Processing deletes for user poonamg
+User poonamg removed from Group RevPro_Prod_Read
+User poonamg removed from Group RevPro_Prod_Write
+User poonamg removed from Group UseTriggers
+User poonamg removed from Group ev_dev_shasta_write
+User poonamg removed from Group ev_dev_whitney_write
+User poonamg removed from Group ev_main_write
+poonamg deleted from Perforce
+User poonamg removed from UseTriggers group.
+Processing deletes for user poonamg
+Workspace 01Aug deleted.
+Workspace 01AugEve deleted.
+Workspace 01Jun deleted.
+Workspace 01May deleted.
+Workspace 02AugEve deleted.
+Workspace 02Jun deleted.
+Workspace 02May deleted.
+Workspace 02eve deleted.
+Workspace 03Jul deleted.
+Workspace 04Aug deleted.
+Workspace 04AugEve deleted.
+Workspace 04Jul deleted.
+Workspace 05Aug deleted.
+Workspace 05Jun deleted.
+Workspace 06Jul deleted.
+Workspace 06Sep deleted.
+Workspace 07AugEve deleted.
+Workspace 07Jul deleted.
+Workspace 07JulDeployment deleted.
+Workspace 07JulyWork deleted.
+Workspace 07Jun deleted.
+Workspace 07Sep deleted.
+Workspace 07eve deleted.
+Workspace 08May deleted.
+Workspace 08Sep deleted.
+Workspace 10Aug deleted.
+Workspace 10AugEve deleted.
+Workspace 10Jul deleted.
+Workspace 10May deleted.
+Workspace 11Jul deleted.
+Workspace 11Jun deleted.
+Workspace 12Aug deleted.
+Workspace 12Dec deleted.
+Workspace 12Jul deleted.
+Workspace 12Jun deleted.
+Workspace 13Aug deleted.
+Workspace 13AugBackup deleted.
+Workspace 13Jul deleted.
+Workspace 13Jun deleted.
+Workspace 13SepLib deleted.
+Workspace 14JulBackupbeforeCodeMerge deleted.
+Workspace 14Jun deleted.
+Workspace 14Sep deleted.
+Workspace 15Jun deleted.
+Workspace 15JunEve deleted.
+Workspace 16Aug deleted.
+Workspace 16Jun deleted.
+Workspace 16JunBackup deleted.
+Workspace 17Aug deleted.
+Workspace 17AugNew deleted.
+Workspace 17Jul deleted.
+Workspace 17May deleted.
+Workspace 18Aug deleted.
+Workspace 18Jul deleted.
+Workspace 19Aug deleted.
+Workspace 19Jul deleted.
+Workspace 19Jun deleted.
+Workspace 20July deleted.
+Workspace 20Jun deleted.
+Workspace 20thJuly deleted.
+Workspace 21JulyEve deleted.
+Workspace 21Jun deleted.
+Workspace 21stJuly deleted.
+Workspace 22Aug deleted.
+Workspace 22Jun deleted.
+Workspace 23Aug deleted.
+Workspace 23July deleted.
+Workspace 23May deleted.
+Workspace 24Aug deleted.
+Workspace 24July deleted.
+Workspace 25Apr deleted.
+Workspace 25Aug deleted.
+Workspace 25July deleted.
+Workspace 25Jun deleted.
+Workspace 26-July deleted.
+Workspace 26July deleted.
+Workspace 26JulyEve deleted.
+Workspace 26may deleted.
+Workspace 27July deleted.
+Workspace 27JulyEve deleted.
+Workspace 28JulyEve deleted.
+Workspace 28Jun deleted.
+Workspace 29July deleted.
+Workspace 29JulyEve deleted.
+Workspace 29May deleted.
+Workspace 30-30 deleted.
+Workspace 30Eve deleted.
+Workspace 30Final deleted.
+Workspace 30Jun deleted.
+Workspace 30JunEve deleted.
+Workspace 30JunLast deleted.
+Workspace 30June deleted.
+Workspace 30JuneNew deleted.
+Workspace 30LastLast deleted.
+Workspace 30May deleted.
+Workspace 31July deleted.
+Workspace 31JunEve deleted.
+Workspace 31May deleted.
+Workspace 31Mor deleted.
+Workspace 8Aug deleted.
+Workspace 8_May deleted.
+Workspace 9Jun deleted.
+Workspace 9eveforantbuild deleted.
+Workspace Dec12 deleted.
+Workspace Main_190117 deleted.
+Workspace NGR_Perforce_300117 deleted.
+Workspace NGR_Ramit_200117 deleted.
+Workspace NGR_Ramit_Main_200117 deleted.
+Workspace PopupWorkspace deleted.
+Workspace Sep11 deleted.
+Workspace ShashankShukla_2017_Main_5pm deleted.
+Workspace ShashankShukla_2017_Shahta_120 deleted.
+Workspace ShashankShukla_2017_Shashta deleted.
+Workspace ShashankShukla_2217_Shasta_11am deleted.
+Workspace harsh deleted.
+Workspace poonamg_PoonamGupta_12 deleted.
+Workspace poonamg_PoonamGupta_14 deleted.
+Workspace poonamg_PoonamGupta_1985 deleted.
+Workspace poonamg_PoonamGupta_2445 deleted.
+Workspace poonamg_PoonamGupta_3717 deleted.
+Workspace poonamg_PoonamGupta_5348 deleted.
+Workspace poonamg_PoonamGupta_6140 deleted.
+Workspace poonamg_PoonamGupta_9906 deleted.
+Workspace poonamg_ShashankShukla_0217 deleted.
+Workspace poonamg_ShashankShukla_0317 deleted.
+Workspace poonamg_ShashankShukla_0517 deleted.
+Workspace poonamg_ShashankShukla_0617 deleted.
+Workspace poonamg_ShashankShukla_1017 deleted.
+Workspace poonamg_ShashankShukla_1017_RevProd deleted.
+Workspace poonamg_ShashankShukla_1217 deleted.
+Workspace poonamg_ShashankShukla_1217_new deleted.
+Workspace poonamg_ShashankShukla_1617 deleted.
+Workspace poonamg_ShashankShukla_1817Main deleted.
+Workspace poonamg_ShashankShukla_1817New deleted.
+Workspace poonamg_ShashankShukla_1917Main_Bkp_2pm deleted.
+Workspace poonamg_ShashankShukla_1917_Main_338pm deleted.
+Workspace poonamg_ShashankShukla_1917_Main_350pm deleted.
+Workspace poonamg_ShashankShukla_1917_Main_530pm deleted.
+Workspace poonamg_ShashankShukla_1917_Main_6Pm deleted.
+Workspace poonamg_ShashankShukla_2212 deleted.
+Workspace poonamg_ShashankShukla_2217_Evn deleted.
+Workspace poonamg_ShashankShukla_2217_sha_Evn deleted.
+Workspace poonamg_ShashankShukla_2217_shasta deleted.
+Workspace poonamg_ShashankShukla_2317_1pm deleted.
+Workspace poonamg_ShashankShukla_2317_main320pm deleted.
+Workspace poonamg_ShashankShukla_2417_1145am deleted.
+Workspace poonamg_ShashankShukla_2417_Shasta_11am deleted.
+Workspace poonamg_ShashankShukla_2417_shasta_1048am deleted.
+Workspace poonamg_ShashankShukla_2417_shasta_6pm deleted.
+Workspace poonamg_ShashankShukla_2517_main deleted.
+Workspace poonamg_ShashankShukla_2616 deleted.
+Workspace poonamg_ShashankShukla_261616 deleted.
+Workspace poonamg_ShashankShukla_2716 deleted.
+Workspace poonamg_ShashankShukla_2916 deleted.
+Workspace poonamg_ShashankShukla_3016 deleted.
+Workspace poonamg_ShashankShukla_310117 deleted.
+Workspace poonamg_ShashankShukla_6518 deleted.
+Workspace poonamg_ShashankShukla_MainBkp_0216 deleted.
+Workspace poonamg_ShashankShukla_Shasta_1817 deleted.
+Workspace poonamg_ShashankShukla_shasta_1317 deleted.
+Workspace poonamg_lp-poonamgupta_01 deleted.
+Workspace poonamg_lp-poonamgupta_02 deleted.
+Workspace poonamg_lp-poonamgupta_02Feb deleted.
+Workspace poonamg_lp-poonamgupta_03Feb deleted.
+Workspace poonamg_lp-poonamgupta_03Mar deleted.
+Workspace poonamg_lp-poonamgupta_04 deleted.
+Workspace poonamg_lp-poonamgupta_04March deleted.
+Workspace poonamg_lp-poonamgupta_05Revprod deleted.
+Workspace poonamg_lp-poonamgupta_05eve deleted.
+Workspace poonamg_lp-poonamgupta_06 deleted.
+Workspace poonamg_lp-poonamgupta_06Mar deleted.
+Workspace poonamg_lp-poonamgupta_06MarEve deleted.
+Workspace poonamg_lp-poonamgupta_06eve deleted.
+Workspace poonamg_lp-poonamgupta_07Feb deleted.
+Workspace poonamg_lp-poonamgupta_07Mar deleted.
+Workspace poonamg_lp-poonamgupta_08Mar deleted.
+Workspace poonamg_lp-poonamgupta_08feb deleted.
+Workspace poonamg_lp-poonamgupta_09 deleted.
+Workspace poonamg_lp-poonamgupta_09Feb deleted.
+Workspace poonamg_lp-poonamgupta_09Mar deleted.
+Workspace poonamg_lp-poonamgupta_10Feb deleted.
+Workspace poonamg_lp-poonamgupta_10Mar deleted.
+Workspace poonamg_lp-poonamgupta_11 deleted.
+Workspace poonamg_lp-poonamgupta_1112 deleted.
+Workspace poonamg_lp-poonamgupta_11Janeve deleted.
+Workspace poonamg_lp-poonamgupta_1212 deleted.
+Workspace poonamg_lp-poonamgupta_1213 deleted.
+Workspace poonamg_lp-poonamgupta_1213-1 deleted.
+Workspace poonamg_lp-poonamgupta_1214 deleted.
+Workspace poonamg_lp-poonamgupta_12Apr deleted.
+Workspace poonamg_lp-poonamgupta_12Janmor deleted.
+Workspace poonamg_lp-poonamgupta_13Feb deleted.
+Workspace poonamg_lp-poonamgupta_13Janeve deleted.
+Workspace poonamg_lp-poonamgupta_13Janmor deleted.
+Workspace poonamg_lp-poonamgupta_14 deleted.
+Workspace poonamg_lp-poonamgupta_14Mar deleted.
+Workspace poonamg_lp-poonamgupta_15Mar deleted.
+Workspace poonamg_lp-poonamgupta_15eve deleted.
+Workspace poonamg_lp-poonamgupta_16 deleted.
+Workspace poonamg_lp-poonamgupta_1645 deleted.
+Workspace poonamg_lp-poonamgupta_16Jan deleted.
+Workspace poonamg_lp-poonamgupta_16JanMor deleted.
+Workspace poonamg_lp-poonamgupta_16Janeve deleted.
+Workspace poonamg_lp-poonamgupta_16Mar deleted.
+Workspace poonamg_lp-poonamgupta_16eve deleted.
+Workspace poonamg_lp-poonamgupta_16night deleted.
+Workspace poonamg_lp-poonamgupta_17Mar deleted.
+Workspace poonamg_lp-poonamgupta_17feb deleted.
+Workspace poonamg_lp-poonamgupta_18-1 deleted.
+Workspace poonamg_lp-poonamgupta_18-J deleted.
+Workspace poonamg_lp-poonamgupta_18Apr deleted.
+Workspace poonamg_lp-poonamgupta_18J deleted.
+Workspace poonamg_lp-poonamgupta_18Janmor deleted.
+Workspace poonamg_lp-poonamgupta_19 deleted.
+Workspace poonamg_lp-poonamgupta_19Apr deleted.
+Workspace poonamg_lp-poonamgupta_19JanMor deleted.
+Workspace poonamg_lp-poonamgupta_1Mar deleted.
+Workspace poonamg_lp-poonamgupta_20 deleted.
+Workspace poonamg_lp-poonamgupta_2001 deleted.
+Workspace poonamg_lp-poonamgupta_20Jan deleted.
+Workspace poonamg_lp-poonamgupta_20Mar deleted.
+Workspace poonamg_lp-poonamgupta_21 deleted.
+Workspace poonamg_lp-poonamgupta_2173 deleted.
+Workspace poonamg_lp-poonamgupta_21Feb deleted.
+Workspace poonamg_lp-poonamgupta_21Febeve deleted.
+Workspace poonamg_lp-poonamgupta_22 deleted.
+Workspace poonamg_lp-poonamgupta_22Mar deleted.
+Workspace poonamg_lp-poonamgupta_22eve deleted.
+Workspace poonamg_lp-poonamgupta_22new deleted.
+Workspace poonamg_lp-poonamgupta_23 deleted.
+Workspace poonamg_lp-poonamgupta_23EVE deleted.
+Workspace poonamg_lp-poonamgupta_23EVE1 deleted.
+Workspace poonamg_lp-poonamgupta_23Feb deleted.
+Workspace poonamg_lp-poonamgupta_23Jan deleted.
+Workspace poonamg_lp-poonamgupta_23mor deleted.
+Workspace poonamg_lp-poonamgupta_24 deleted.
+Workspace poonamg_lp-poonamgupta_24FebAgain deleted.
+Workspace poonamg_lp-poonamgupta_24FebEve deleted.
+Workspace poonamg_lp-poonamgupta_24Jan deleted.
+Workspace poonamg_lp-poonamgupta_24feb deleted.
+Workspace poonamg_lp-poonamgupta_25 deleted.
+Workspace poonamg_lp-poonamgupta_25Jan deleted.
+Workspace poonamg_lp-poonamgupta_26 deleted.
+Workspace poonamg_lp-poonamgupta_26EVE deleted.
+Workspace poonamg_lp-poonamgupta_27Feb deleted.
+Workspace poonamg_lp-poonamgupta_27FebEVE deleted.
+Workspace poonamg_lp-poonamgupta_27FebEve deleted.
+Workspace poonamg_lp-poonamgupta_27Jan deleted.
+Workspace poonamg_lp-poonamgupta_27mor deleted.
+Workspace poonamg_lp-poonamgupta_28 deleted.
+Workspace poonamg_lp-poonamgupta_29 deleted.
+Workspace poonamg_lp-poonamgupta_29-2 deleted.
+Workspace poonamg_lp-poonamgupta_29Final deleted.
+Workspace poonamg_lp-poonamgupta_29FinalEve deleted.
+Workspace poonamg_lp-poonamgupta_29Mor deleted.
+Workspace poonamg_lp-poonamgupta_30 deleted.
+Workspace poonamg_lp-poonamgupta_30Jan deleted.
+Workspace poonamg_lp-poonamgupta_30Mar deleted.
+Workspace poonamg_lp-poonamgupta_31 deleted.
+Workspace poonamg_lp-poonamgupta_316 deleted.
+Workspace poonamg_lp-poonamgupta_31Jan deleted.
+Workspace poonamg_lp-poonamgupta_31Mor deleted.
+Workspace poonamg_lp-poonamgupta_3210 deleted.
+Workspace poonamg_lp-poonamgupta_3557 deleted.
+Workspace poonamg_lp-poonamgupta_455 deleted.
+Workspace poonamg_lp-poonamgupta_4MorDevCode deleted.
+Workspace poonamg_lp-poonamgupta_503 deleted.
+Workspace poonamg_lp-poonamgupta_5055 deleted.
+Workspace poonamg_lp-poonamgupta_5734 deleted.
+Workspace poonamg_lp-poonamgupta_579 deleted.
+Workspace poonamg_lp-poonamgupta_5Feb deleted.
+Workspace poonamg_lp-poonamgupta_6570 deleted.
+Workspace poonamg_lp-poonamgupta_7530 deleted.
+Workspace poonamg_lp-poonamgupta_8259 deleted.
+Workspace poonamg_lp-poonamgupta_8524 deleted.
+Workspace poonamg_lp-poonamgupta_8590 deleted.
+Workspace poonamg_lp-poonamgupta_9213 deleted.
+Workspace poonamg_lp-poonamgupta_9335 deleted.
+Workspace poonamg_lp-poonamgupta_9352 deleted.
+Workspace poonamg_lp-poonamgupta_9423 deleted.
+Workspace poonamg_lp-poonamgupta_9671 deleted.
+Workspace poonamg_lp-poonamgupta_Latestcodedev deleted.
+Workspace poonamg_lp-poonamgupta_newmain deleted.
+Workspace ramit_perforce deleted.
+Workspace suresh_code deleted.
+poonamg deleted from Perforce
+User poonamg removed from UseTriggers group.
+Processing deletes for user smendira
+Workspace smendira_SMENDIRA-PC_665 deleted.
+Workspace smendira_SaaSintern_9431 deleted.
+User smendira removed from Group UseTriggers
+smendira deleted from Perforce
+User smendira removed from UseTriggers group.
+Processing deletes for user snaresh
+snaresh deleted from Perforce
+User snaresh removed from UseTriggers group.
+Processing deletes for user snaresh
+snaresh deleted from Perforce
+User snaresh removed from UseTriggers group.
+Processing deletes for user srajat
+Workspace dev_dms deleted.
+Workspace dev_dmsws deleted.
+Workspace dms deleted.
+Workspace srajat_A455LBLR_7178_PDB deleted.
+Workspace srajat_A455LBLR_8360 deleted.
+User srajat removed from Group NetAppU_dms_write
+srajat deleted from Perforce
+User srajat removed from UseTriggers group.
+Processing deletes for user sripriyv
+Workspace SFDC deleted.
+Workspace netsfdc deleted.
+Workspace sfdc deleted.
+Workspace sripriyv_Sripriyas-MacBook-Pro_9110 deleted.
+User sripriyv removed from Group SFDC
+User sripriyv removed from Group UseTriggers
+sripriyv deleted from Perforce
+User sripriyv removed from UseTriggers group.
+Processing deletes for user ssagala
+Workspace Perforce deleted.
+Workspace ssagala_A441LBLR_2434 deleted.
+Workspace ssagala_A441LBLR_3147 deleted.
+Workspace ssagala_A441LBLR_3188 deleted.
+Workspace ssagala_A441LBLR_5193 deleted.
+Workspace ssagala_A441LBLR_5881 deleted.
+Workspace ssagala_A441LBLR_6293 deleted.
+Workspace ssagala_A441LBLR_6796 deleted.
+Workspace ssagala_A441LBLR_746 deleted.
+Workspace ssagala_A441LBLR_7648 deleted.
+Workspace ssagala_A441LBLR_7665 deleted.
+Workspace ssagala_A441LBLR_7758 deleted.
+Workspace ssagala_A441LBLR_7904 deleted.
+Workspace ssagala_A441LBLR_8727 deleted.
+Workspace ssagala_A441LBLR_9063 deleted.
+Workspace ssagala_A441LBLR_9259 deleted.
+Workspace ssagala_A441LBLR_998 deleted.
+User ssagala removed from Group SFDC
+User ssagala removed from Group SFDC_REL_MGT
+User ssagala removed from Group UseTriggers
+ssagala deleted from Perforce
+User ssagala removed from UseTriggers group.
+Processing deletes for user gandla
+Workspace gandla_A088LBLR_3558 deleted.
+Workspace gandla_A088LBLR_8264 deleted.
+User gandla removed from Group UseTriggers
+User gandla removed from Group ntac_read
+User gandla removed from Group ntac_role_coder_qe
+gandla deleted from Perforce
+User gandla removed from UseTriggers group.
+Processing deletes for user gjain
+Workspace ConnectorPushAWS deleted.
+Workspace SaaScit_APIGateway deleted.
+Workspace SaaScit_CldKntServices deleted.
+Workspace apigateway deleted.
+Workspace beta-1elasticagent deleted.
+Workspace beta-1microservices deleted.
+Workspace beta-1wcprotractor deleted.
+Workspace beta-1webclient deleted.
+Workspace beta-2elasticagent deleted.
+Workspace beta-2microservices deleted.
+Workspace beta-2wcprotractor deleted.
+Workspace beta-2webclient deleted.
+Workspace beta-3elasticagent deleted.
+Workspace beta-3microservices deleted.
+Workspace beta-3wcprotractor deleted.
+Workspace beta-3webclient deleted.
+Workspace beta1elasticagent deleted.
+Workspace beta1microservices deleted.
+Workspace beta1wcprotractor deleted.
+Workspace beta1webclient deleted.
+Workspace beta_perf deleted.
+Workspace betadrop-1exo deleted.
+Workspace betadrop-1od4b deleted.
+Workspace betadrop-1spo deleted.
+Workspace betadrop-2exo deleted.
+Workspace betadrop-2od4b deleted.
+Workspace betadrop-2spo deleted.
+Workspace betadrop-3exo deleted.
+Workspace betadrop-3od4b deleted.
+Workspace betadrop-3spo deleted.
+Workspace betadrop1exo deleted.
+Workspace betadrop1od4b deleted.
+Workspace betadrop1spo deleted.
+Workspace betadrop1transporter deleted.
+Workspace betadrop2spo deleted.
+Workspace citpoc deleted.
+Workspace drop-1serviceautomation deleted.
+Workspace drop-2serviceautomation deleted.
+Workspace drop-3serviceautomation deleted.
+Workspace drop1serviceautomation deleted.
+Workspace elasticagent deleted.
+Workspace gjain_SaaScit_1226 deleted.
+Workspace gjain_SaaScit_196 deleted.
+Workspace gjain_SaaScit_5212 deleted.
+Workspace gjain_SaaScit_864 deleted.
+Workspace gjain_SaaScit_betadrop deleted.
+Workspace gjain_SaaScit_betadrop-1 deleted.
+Workspace gjain_SaaScit_betadrop-2 deleted.
+Workspace gjain_SaaScit_betadrop3 deleted.
+Workspace gjain_SaaScit_raries deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-APIGatewayService deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-AuthenticatorService deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-CIT-POC-CF deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-CIT-POC-CF-Slave deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-DockerImgMicroservice-Slave deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-JobManagerService deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-PolicyManagerService deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-SchedulerService deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-SubscriptorService deleted.
+Workspace jenkins-JenkinsSlave-Ubuntu-Test deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-APIGatewayService deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-APIGatewayServiceOld deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-AuthenticatorService deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-DockerImgMicroservice-Slave deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-Microservice_-_APIGateway deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-SubscriptorService deleted.
+Workspace jenkins-JenkinsUbuntu-NewSlave-Test deleted.
+Workspace jenkins-master-CIT-POC deleted.
+Workspace jenkins-master-CIT-POC-CF deleted.
+Workspace jenkins-master-CloudKnitCIT deleted.
+Workspace jenkins-master-CloudKnitCITDeploy deleted.
+Workspace jenkins-master-CloudKnitMain deleted.
+Workspace jenkins-master-CloudKnitStaging deleted.
+Workspace jenkinselasticsearch deleted.
+Workspace jenkinsod deleted.
+Workspace jenkinsonedrive deleted.
+Workspace jenkinsonedrivebuisness deleted.
+Workspace jenkinstpberlin deleted.
+Workspace jenkinstransporter deleted.
+Workspace jenkinstransporternew deleted.
+Workspace multibrachtest deleted.
+Workspace multibrachtest.clonescript deleted.
+Workspace palak_SaaSdev10_6867 deleted.
+Workspace palak_workspace_1 deleted.
+Workspace palak_workspace_2 deleted.
+Workspace palak_workspace_3 deleted.
+Workspace palak_workspace_4 deleted.
+Workspace raries_exo_automation_prod deleted.
+Workspace raries_jmeter_automation_prod deleted.
+Workspace raries_od4b_automation_prod deleted.
+Workspace raries_spo_automation_prod deleted.
+Workspace rariesdiscoveryagentprod deleted.
+Workspace rarieselasticagentprod deleted.
+Workspace rariesexoprod deleted.
+Workspace rariesguitestsprod deleted.
+Workspace rariesod4bprod deleted.
+Workspace rariesplatformprod deleted.
+Workspace rariesspoprod deleted.
+Workspace rariessupportclientprod deleted.
+Workspace rarieswebclientprod deleted.
+Workspace rathnamspo deleted.
+Workspace smoketests deleted.
+Workspace smokevalidation deleted.
+Workspace stackstaging deleted.
+Workspace techpreview deleted.
+Workspace testservice deleted.
+Workspace tpservices deleted.
+User gjain removed from Group UseTriggers
+User gjain removed from Group o365dp_role_eng
+gjain deleted from Perforce
+User gjain removed from UseTriggers group.
+Processing deletes for user govindj
+Workspace govindj deleted.
+Workspace govindj-1 deleted.
+Workspace govindj:PerforceUsage deleted.
+Workspace govindj_1 deleted.
+Workspace govindj_GOVINDJ01-NGR deleted.
+User govindj removed from Group UseTriggers
+User govindj removed from Group ev_finance
+govindj deleted from Perforce
+User govindj removed from UseTriggers group.
+Processing deletes for user habib
+Workspace habib deleted.
+User habib removed from Group ev_dev_shasta_write
+User habib removed from Group ev_other_QE_Tech_Stability_Support
+User habib removed from Group infra
+habib deleted from Perforce
+User habib removed from UseTriggers group.
+Processing deletes for user jelizabe
+Workspace jelizabe_C277LTRV_9073 deleted.
+Workspace jelizabe_perforce_code deleted.
+User jelizabe removed from Group UseTriggers
+User jelizabe removed from Group ev_dev_shasta_write
+jelizabe deleted from Perforce
+User jelizabe removed from UseTriggers group.
+Processing deletes for user kanti
+Workspace kanti_local_testing deleted.
+User kanti removed from Group ev_dev_shasta_write
+User kanti removed from Group ev_other_QE_Tech_Stability_Support
+User kanti removed from Group infra
+kanti deleted from Perforce
+User kanti removed from UseTriggers group.
+Processing deletes for user kulkarnp
+Workspace kulkarnp_D251LTRV_9448 deleted.
+User kulkarnp removed from Group UseTriggers
+User kulkarnp removed from Group ntac_role_coder_qe
+kulkarnp deleted from Perforce
+User kulkarnp removed from UseTriggers group.
+Processing deletes for user larisap
+Workspace larisap_VMWEBIETL03-STG_782 deleted.
+User larisap removed from Group UseTriggers
+User larisap removed from Group eba_EDWNI_PROD_BBSBR_dev_write
+User larisap removed from Group eba_EDWNI_PROD_IBGS_dev_write
+User larisap removed from Group eba_EDWPDIHDCPRD_dev_write
+User larisap removed from Group eba_EDWPDIT2PROD_dev_write
+larisap deleted from Perforce
+User larisap removed from UseTriggers group.
+Processing deletes for user manideep
+Workspace P4 deleted.
+User manideep removed from Group UseTriggers
+User manideep removed from Group agile_SCMNET_write
+User manideep removed from Group agile_role_build
+User manideep removed from Group agile_role_coder
+User manideep removed from Group agile_role_ppa
+manideep deleted from Perforce
+User manideep removed from UseTriggers group.
+Processing deletes for user murtaza
+User murtaza removed from Group UseTriggers
+User murtaza removed from Group ev_dev_shasta_write
+User murtaza removed from Group ev_netapp_readonly
+murtaza deleted from Perforce
+User murtaza removed from UseTriggers group.
+
+Running process add Perforce user option.
+User kravi2 created.
+User kravi2 added to UseTriggers group.
+User dilip1 created.
+User dilip1 added to UseTriggers group.
+User anils1 created.
+User anils1 added to UseTriggers group.

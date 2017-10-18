@@ -1,0 +1,7 @@
+Client: piush:logsPU
+Owner: operator1
+Root: c:\tmp\logs\pu
+SubmitOptions:	revertunchanged
+LineEnd:        share
+View:
+	 //depot/proj/infra/perforce/logs/pu/...   //piush:logsPU/...

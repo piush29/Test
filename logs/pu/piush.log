@@ -1,0 +1,3009 @@
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/1/24 Time: 12:32
+
+Running process user delete option.
+Processing deletes for user garvita
+Workspace garvita_A507LBLR_4351 deleted.
+Workspace garvita_A507LBLR_850 deleted.
+Workspace garvita_A507LBLR_8951 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group UseTriggers
+!!! Error modifying group ntac_role_coder_qe.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group ntac_role_coder_qe
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User garvita removed from Group 64)
+garvita deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user haod
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group SFDC_REL_MGT
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group UseTriggers
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User haod removed from Group 64)
+haod deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user harinis
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group ev_other_QE_Tech_Stability_Support.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group ev_other_QE_Tech_Stability_Support
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User harinis removed from Group 64)
+harinis deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user ishtyak
+Workspace ishtyak_Ishtyak-PC_4464 deleted.
+Workspace ishtyak_Lp-Ishtyak_4651 deleted.
+Workspace ishtyak_ishtyak_1019 deleted.
+Workspace ishtyak_ishtyak_5755 deleted.
+!!! Error modifying group NetAppU_dms_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group NetAppU_dms_write
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group SFDC
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group UseTriggers
+!!! Error modifying group channels_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group channels_write
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ishtyak removed from Group 64)
+ishtyak deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user subrahmi
+Workspace subrahmi_ig-lp-44_1888 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group UseTriggers
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group ev_dev_shasta_write
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User subrahmi removed from Group 64)
+subrahmi deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user sundara
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group UseTriggers
+!!! Error modifying group o365dp_role_eng.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group o365dp_role_eng
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sundara removed from Group 64)
+sundara deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user suvarna
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group ev_other_QE_Tech_Stability_Support.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group ev_other_QE_Tech_Stability_Support
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User suvarna removed from Group 64)
+suvarna deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user swatishr
+Workspace swatishr_A488LBLR_5431 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group UseTriggers
+!!! Error modifying group ntac_role_coder_qe.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group ntac_role_coder_qe
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User swatishr removed from Group 64)
+swatishr deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user syedaf
+Workspace syedaf_A497LBLR_6264 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group UseTriggers
+!!! Error modifying group ntac_role_coder_qe.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group ntac_role_coder_qe
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User syedaf removed from Group 64)
+syedaf deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user saurabh
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group UseTriggers
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group ev_dev_shasta_write
+!!! Error modifying group ev_main_read.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group ev_main_read
+!!! Error modifying group ev_main_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group ev_main_write
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saurabh removed from Group 64)
+saurabh deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user saymai
+Workspace saymai:case_migration deleted.
+Workspace saymai:cts_code deleted.
+Workspace saymai:engenio_prod deleted.
+Workspace saymai:future_dev_sa_br deleted.
+Workspace saymai:legacy deleted.
+Workspace saymai:nextgen_wkspace deleted.
+Workspace saymai:nextgennow_prod deleted.
+Workspace saymai:nextgennow_stage deleted.
+Workspace saymai:nextgennow_tst deleted.
+Workspace saymai:production deleted.
+Workspace saymai:sadev_wksp deleted.
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User saymai removed from Group 64)
+saymai deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user sdora
+Workspace sdora:GP_PRJ deleted.
+Workspace sdora:GetPaid deleted.
+Workspace sdora:GetPaid_PRJ deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group UseTriggers
+!!! Error modifying group ev_finance.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group ev_finance
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdora removed from Group 64)
+sdora deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user sharisha
+Workspace sharisha_LP-54EE750BFD03_9623 deleted.
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group ev_dev_shasta_write
+!!! Error modifying group ev_netapp_readonly.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group ev_netapp_readonly
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sharisha removed from Group 64)
+sharisha deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user shaswat
+Workspace shaswat_A808LMAA_5304 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group UseTriggers
+!!! Error modifying group ntac_role_coder_qe.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group ntac_role_coder_qe
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shaswat removed from Group 64)
+shaswat deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user soniao
+Workspace soniao_myworkspace deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group UseTriggers
+!!! Error modifying group intgdev.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group intgdev
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soniao removed from Group 64)
+soniao deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user soujanys
+Workspace soujanys_SOUJANYS-PC_874 deleted.
+!!! Error modifying group CE_SOA.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group CE_SOA
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group SFDC_REL_MGT
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User soujanys removed from Group 64)
+soujanys deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user spachama
+Workspace spachama deleted.
+Workspace spachama_DS-7071BCC2CFAF_1659 deleted.
+Workspace spachama_LP-3C970E8ABEE6_1229 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group UseTriggers
+!!! Error modifying group ev_finance.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group ev_finance
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User spachama removed from Group 64)
+spachama deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user sreedhat
+Workspace NetappDirectory deleted.
+Workspace NetappNew deleted.
+Workspace sreedhat_KIT309_04272016 deleted.
+Workspace sreedhat_KIT309_1097 deleted.
+Workspace sreedhat_KIT309_4708 deleted.
+Workspace sreedhat_KIT309_8430 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group UseTriggers
+!!! Error modifying group enteprisemobile.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group enteprisemobile
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreedhat removed from Group 64)
+sreedhat deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user sreenatl
+Workspace sreenatl_DS-E06995CFBDE8_2361 deleted.
+Workspace sreenatl_DS-E06995CFBDE8_2435 deleted.
+Workspace sreenatl_DS-E06995CFBDE8_496 deleted.
+Workspace sreenatl_LP-3C970EE1ABBE_334 deleted.
+Workspace sreenatl_LP-3C970EE1ABBE_5753 deleted.
+Workspace sreenatl_LP-E4115B492A18_682 deleted.
+Workspace sreenatl_NGS deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group UseTriggers
+!!! Error modifying group ev_finance.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group ev_finance
+!!! Error modifying group [0x7FFC2B4470E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group [0x7FFC2B4470E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sreenatl removed from Group 64)
+sreenatl deleted from Perforce
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/4/27 Time: 14:26
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/4/27 Time: 14:27
+
+Running process user delete option.
+Processing deletes for user sdibyara
+Workspace sdibyara_A673LCOK_5883 deleted.
+Workspace sdibyara_A673LCOK_782 deleted.
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group SFDC_REL_MGT
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group UseTriggers
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sdibyara removed from Group 64)
+sdibyara deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/4/28 Time: 9:7
+Session ended because another session already active.
+.
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/4/28 Time: 9:8
+
+Running process user delete option.
+Processing deletes for user jananii
+Workspace Jananii_Netapp_PerforceWorkspace_1 deleted.
+Workspace jananii_sfdc_main_branch deleted.
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group SFDC_REL_MGT
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group UseTriggers
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User jananii removed from Group 64)
+jananii deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user dipali
+Workspace dipali deleted.
+Workspace dipali_ign-lp-31_3855 deleted.
+Workspace dipali_narkhede deleted.
+Workspace dipali_rig-lp-06_6806 deleted.
+!!! Error modifying group RevPro_Prod_Read.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group RevPro_Prod_Read
+!!! Error modifying group RevPro_Prod_Write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group RevPro_Prod_Write
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group UseTriggers
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group ev_dev_shasta_write
+!!! Error modifying group ev_main_read.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group ev_main_read
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dipali removed from Group 64)
+dipali deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user rrajeshk
+Workspace NetappU_Automation deleted.
+!!! Error modifying group NetAppU_dms_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group NetAppU_dms_write
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group UseTriggers
+!!! Error modifying group intgdev.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group intgdev
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User rrajeshk removed from Group 64)
+rrajeshk deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user ktalari
+Workspace ktalari_B260LMAA_6545 deleted.
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group SFDC_REL_MGT
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group UseTriggers
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ktalari removed from Group 64)
+ktalari deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user kshravan
+Workspace kshravan_A443LBLR_1145 deleted.
+Workspace kshravan_A443LBLR_1461 deleted.
+Workspace kshravan_A443LBLR_4225 deleted.
+User kshravan removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group SFDC_REL_MGT
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group UseTriggers
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kshravan removed from Group 64)
+kshravan deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user reenaj
+Workspace Build deleted.
+Workspace CZ_P4_Workspace deleted.
+Workspace CZ_Perf_Workspace deleted.
+Workspace Development deleted.
+Workspace build deleted.
+Workspace mobility deleted.
+Workspace reenaj_A468LCOK_8230 deleted.
+Workspace reenaj_A554LBLR_3523 deleted.
+Workspace reenaj_A854DCOK_1448 deleted.
+Workspace reenaj_A854DCOK_2229 deleted.
+Workspace reenaj_A854DCOK_2363 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group UseTriggers
+!!! Error modifying group enteprisemobile.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group enteprisemobile
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group ev_dev_shasta_write
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User reenaj removed from Group 64)
+reenaj deleted from Perforce
+!!! Error modifying protects table for reenaj.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush protects -i
+
+User reenaj removed from p4 protect table
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user nagar
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group UseTriggers
+!!! Error modifying group ev_finance.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group ev_finance
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User nagar removed from Group 64)
+nagar deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user kkaranam
+Workspace kkaranam_A559LBLR_9058 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group UseTriggers
+!!! Error modifying group ntac_role_coder_qe.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group ntac_role_coder_qe
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kkaranam removed from Group 64)
+kkaranam deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user kallola
+Workspace AODSR1Branch deleted.
+Workspace kallola_D755LTRV_1872 deleted.
+Workspace kallola_H897DTRV_1637 deleted.
+!!! Error modifying group Asup_read.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group Asup_read
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group UseTriggers
+!!! Error modifying group asup_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group asup_write
+!!! Error modifying group pmbta_role_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group pmbta_role_write
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User kallola removed from Group 64)
+kallola deleted from Perforce
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/4/28 Time: 19:35
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/4/28 Time: 19:35
+
+Running process user delete option.
+Processing deletes for user dinakark
+Workspace dinakark_Mac deleted.
+Workspace dinakark_PC deleted.
+Workspace dinakark_PC11JAN deleted.
+!!! Error modifying group RevPro_Prod_Write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group RevPro_Prod_Write
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group UseTriggers
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group ev_dev_shasta_write
+!!! Error modifying group ev_main_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group ev_main_write
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User dinakark removed from Group 64)
+dinakark deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user shus
+Workspace shus_0117 deleted.
+Workspace shus_ShashankShukla_020217 deleted.
+Workspace shus_ShashankShukla_020317 deleted.
+Workspace shus_ShashankShukla_070317 deleted.
+Workspace shus_ShashankShukla_080217 deleted.
+Workspace shus_ShashankShukla_080317 deleted.
+Workspace shus_ShashankShukla_090317Main deleted.
+Workspace shus_ShashankShukla_100217_630pm deleted.
+Workspace shus_ShashankShukla_130217 deleted.
+Workspace shus_ShashankShukla_150217 deleted.
+Workspace shus_ShashankShukla_200217 deleted.
+Workspace shus_ShashankShukla_220217 deleted.
+Workspace shus_ShashankShukla_270217 deleted.
+Workspace shus_ShashankShukla_270217New deleted.
+!!! Error modifying group RevPro_Prod_Write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group RevPro_Prod_Write
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group UseTriggers
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group ev_dev_shasta_write
+!!! Error modifying group ev_main_read.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group ev_main_read
+!!! Error modifying group ev_main_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group ev_main_write
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User shus removed from Group 64)
+shus deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user ashadm
+Workspace ashadm_A382LBLR_2521 deleted.
+Workspace ashadm_A382LBLR_2631 deleted.
+Workspace ashadm_A382LBLR_4683 deleted.
+Workspace ashadm_A382LBLR_5967 deleted.
+Workspace ashadm_A382LBLR_6599 deleted.
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group SFDC
+!!! Error modifying group SFDC_REL_MGT.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group SFDC_REL_MGT
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group UseTriggers
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User ashadm removed from Group 64)
+ashadm deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user sankarag
+Workspace MyWork deleted.
+Workspace MyWorkSpace deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group UseTriggers
+!!! Error modifying group ev_dev_shasta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group ev_dev_shasta_write
+!!! Error modifying group ev_main_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group ev_main_write
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User sankarag removed from Group 64)
+sankarag deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user pbharat
+Workspace pbharat_ig-lp-70_1462 deleted.
+Workspace pbharat_ig-lp-70_8089 deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group UseTriggers
+!!! Error modifying group ev_finance.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group ev_finance
+!!! Error modifying group [0x7FFA3E1D70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group [0x7FFA3E1D70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-prd.corp.netapp.com:1818 -u piush group -i
+
+User pbharat removed from Group 64)
+pbharat deleted from Perforce
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-stg.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/5/3 Time: 9:43
+
+Running process user delete option.
+Processing deletes for user anushae
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group ngsitops.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group ngsitops
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User anushae removed from Group 64)
+anushae deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user arakesh
+Workspace Rakesh deleted.
+!!! Error modifying group ev_finance.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group ev_finance
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User arakesh removed from Group 64)
+arakesh deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user asm
+Workspace asm_ASM-PC_6582 deleted.
+!!! Error modifying group nextgennow_ucc_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group nextgennow_ucc_write
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asm removed from Group 64)
+asm deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user asunny
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group NetAppU_dms_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group NetAppU_dms_write
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User asunny removed from Group 64)
+asunny deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user atreyee
+Workspace archival deleted.
+Workspace atreyee:magma_2_ws deleted.
+Workspace atreyee:magma_ws_p4 deleted.
+Workspace magma_12 deleted.
+Workspace magma_2.0_emrel.0 deleted.
+Workspace magma_2.0_r11_lat.0 deleted.
+Workspace magma_2.0_r11_latest.0 deleted.
+Workspace magma_2.0_r12 deleted.
+Workspace magma_2.0_r12.0 deleted.
+Workspace magma_2.0_r12.0_latest deleted.
+Workspace magma_2.0_r13 deleted.
+Workspace magma_2.0_r13.0 deleted.
+Workspace magma_2.0_r13.0_latest deleted.
+!!! Error modifying group magma_project.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group magma_project
+!!! Error modifying group ngsitops.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group ngsitops
+!!! Error modifying group pmbta_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group pmbta_write
+!!! Error modifying group rse_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group rse_write
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User atreyee removed from Group 64)
+atreyee deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user brucee
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User brucee removed from Group 64)
+brucee deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user bsharma
+Workspace P4_Root_Workspace deleted.
+Workspace bsharma_HPUFT_p4 deleted.
+Workspace bsharma_p4 deleted.
+!!! Error modifying group intgdev.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group intgdev
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User bsharma removed from Group 64)
+bsharma deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user dhanjay
+Error deleting Workspace ANOMALY:.
+Command: p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush client -d -f ANOMALY:
+
+!!! Error modifying group hritdev.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group hritdev
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dhanjay removed from Group 64)
+dhanjay deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user dibyaras
+Workspace Aods_ReleasesR4_Workspace deleted.
+Workspace AsupPutPost_new deleted.
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group UseTriggers
+!!! Error modifying group asup_write.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group asup_write
+!!! Error modifying group ngsitops.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group ngsitops
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dibyaras removed from Group 64)
+dibyaras deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+Running process user delete option.
+Processing deletes for user dmehta
+Workspace dmehta-Dev_Main deleted.
+Workspace dmehta:sfdc_main_branch deleted.
+!!! Error modifying group SFDC.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group SFDC
+!!! Error modifying group [0x7FFFB4AC70E3].
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group [0x7FFFB4AC70E3]
+!!! Error modifying group ANOMALY:.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group ANOMALY:
+!!! Error modifying group use.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group use
+!!! Error modifying group of.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group of
+!!! Error modifying group REX.w.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group REX.w
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group is
+!!! Error modifying group meaningless.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group meaningless
+!!! Error modifying group (default.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group (default
+!!! Error modifying group operand.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group operand
+!!! Error modifying group size.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group size
+!!! Error modifying group is.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group is
+!!! Error modifying group 64).
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i
+
+User dmehta removed from Group 64)
+dmehta deleted from Perforce
+!!! Error modifying group UseTriggers.
+Command: type  c:\tmp\group.date | p4.exe -p vmwpfiapp01-stg.corp.netapp.com:1818 -u piush group -i  > nul
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/8/21 Time: 11:27
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/8/21 Time: 11:43
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/8/21 Time: 12:12
+
+-----------------------------------------------------------------
+Program: process_user.pl Version: 1.0 Operating System: MSWin32
+Perforce User ID piush Processing Users on host vmwpfiapp01-prd.corp.netapp.com:1818
+User running on local system LP-PIUSHMISHRA
+Date is 2017/8/21 Time: 12:12
+
+Running process add Perforce user option.
+User neha2 created.
+User neha2 added to UseTriggers group.
+User pravuran created.
+User pravuran added to UseTriggers group.
+Exiting process user.
